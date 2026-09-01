@@ -1,0 +1,12 @@
+{
+  "name": "phishguardx",
+  "version": "1.0.0",
+  "description": "PhishGuardX - Phishing Detection Console (Full Stack: Node + Express backend, HTML/CSS/JS frontend)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
